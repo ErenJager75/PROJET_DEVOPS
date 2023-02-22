@@ -29,7 +29,7 @@ dag = DAG(
 
 
 def run_routine():
-    os.system('python routine.py')
+    os.system('python script.py')
 
 
 
